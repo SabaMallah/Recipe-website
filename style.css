@@ -23,6 +23,22 @@ h3 {
   text-transform: uppercase;
 }
 
+h4 {
+  text-align: center;
+}
+
+a {
+  display: block;
+  margin-top: 25px;
+  padding: 10px;
+  background-color: #cd3c80;
+  border: 1px solid white;
+  align-items: center;
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+
 h3:after {
   content: " ";
   display: block;
